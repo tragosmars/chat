@@ -1,0 +1,2 @@
+setCssToHead(["wx-page.",[1],"data-v-6754c048 { background: #f8f8f8; padding-bottom: ",[0,32],"; }\n.",[1],"bar.",[1],"data-v-6754c048 { width: 100%; height: var(--status-bar-height); }\n",],undefined,{path:"./pages/team/team.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/team/team.wxml') } }));
